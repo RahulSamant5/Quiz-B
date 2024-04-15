@@ -1,1 +1,1 @@
-# Quiz-B
+A basic quiz with 3 question pages, home page click to start to take to Question1 coponent in Angular and then submit routes to Question 2 component while carrying data routes to Question3 component then submit calculates and shares the score also using node js function emails the score to who so required. there many be some mistakes looking for advice on those as well tools used - Angular and Nodejs
